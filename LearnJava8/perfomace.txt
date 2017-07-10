@@ -1,0 +1,16 @@
+------------------------------------
+Java7 sum 10064488
+Java8 sum 10671648
+Java7 sum parallel 22898883
+Java8 sum parallel 17929664
+------------------------------------
+Java7 getMostFrequentWords 6313438
+Java8 getMostFrequentWords 16651838
+Java7 getMostFrequentWords parallel 5406387
+Java8 getMostFrequentWords parallel 7828291
+------------------------------------
+Java7 getDuplicates 245365
+Java8 getDuplicates 20961616
+Java7 getDuplicates parallel 31379238
+Java8 getDuplicates parallel 1786198
+------------------------------------
